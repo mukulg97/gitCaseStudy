@@ -3,5 +3,11 @@
 <<<<<<< HEAD
 		<title> My HTML application for test </title>
 		<title> FOr trail purpose </title>
+=======
+		<title>My HTML Application for test </title> 
+		<title> FOr trial purpose </title>
+>>>>>>> new-feature-1
 	</head>
 </html>
+
+
